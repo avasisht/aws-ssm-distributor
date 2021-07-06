@@ -1,0 +1,20 @@
+{
+    "schemaVersion": "2.0",
+    "version": "2.0.0",
+    "packages": {
+        "windows": {
+            "_any": {
+                "x86_64": {
+                    "file": "ssm-chrome.zip"
+                }
+            }
+        }
+    },
+    "files": {
+        "ssm-chrome.zip": {
+            "checksums": {
+                "sha256": "b487d5df55229697e211669834d730ee2d08c011e94d0fb212db20815b1c742c"
+            }
+        }
+    }
+}
